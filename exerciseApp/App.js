@@ -6,7 +6,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet } from 'react-native';
 import Home from './Home.jsx';
 import Exercises from './Exercises.jsx';
-import Random from './Randon.jsx';
+import Random from './Random.jsx';
 import ToDo from './ToDo.jsx';
 
 const Stack = createStackNavigator();

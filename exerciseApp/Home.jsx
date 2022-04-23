@@ -30,7 +30,7 @@ let exercisesList = [
 export default function Home({navigation}) {
     return (
         <View style={styles.container}>
-            <Text>1. Choose an Exercise</Text>
+            <Text>1. Choose a Warm Up Exercise to Begin</Text>
             <FlatList data={exercisesList} renderItem={
                 ({item, index}) => <Button key={index} title={item.activityName} onPress={() =>
                     (navigation.navigate('Exercises', {
