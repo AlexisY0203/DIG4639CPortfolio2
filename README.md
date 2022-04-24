@@ -4,3 +4,4 @@ For the first component, there are three warm up exercises listed (Situps, Pushu
 Next is a button for users to find a random exercise to be presented to them.
 After this is an exercise quiz to see what exercise types they should be doing based on their main goals.
 Finally is a button where experienced gym goers can create their own to do list. They can add their own exercises to this list and check them off as completed.
+GitHub Pages Site: https://alexisy0203.github.io/DIG4639CPortfolio2/
