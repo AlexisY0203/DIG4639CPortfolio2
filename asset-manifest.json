@@ -1,0 +1,38 @@
+{
+  "files": {
+    "app.js": "/DIG4639CPortfolio2/static/js/app.4e982e73.chunk.js",
+    "app.js.map": "/DIG4639CPortfolio2/static/js/app.4e982e73.chunk.js.map",
+    "runtime~app.js": "/DIG4639CPortfolio2/static/js/runtime~app.63378b65.js",
+    "runtime~app.js.map": "/DIG4639CPortfolio2/static/js/runtime~app.63378b65.js.map",
+    "static/js/2.59b14091.chunk.js": "/DIG4639CPortfolio2/static/js/2.59b14091.chunk.js",
+    "static/js/2.59b14091.chunk.js.map": "/DIG4639CPortfolio2/static/js/2.59b14091.chunk.js.map",
+    "fonts/AntDesign.ttf": "/DIG4639CPortfolio2/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/DIG4639CPortfolio2/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/DIG4639CPortfolio2/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/DIG4639CPortfolio2/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/DIG4639CPortfolio2/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/DIG4639CPortfolio2/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/DIG4639CPortfolio2/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/DIG4639CPortfolio2/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/DIG4639CPortfolio2/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/DIG4639CPortfolio2/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/DIG4639CPortfolio2/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/DIG4639CPortfolio2/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/DIG4639CPortfolio2/favicon-16.png",
+    "favicon-32.png": "/DIG4639CPortfolio2/favicon-32.png",
+    "favicon.ico": "/DIG4639CPortfolio2/favicon.ico",
+    "index.html": "/DIG4639CPortfolio2/index.html",
+    "manifest.json": "/DIG4639CPortfolio2/manifest.json",
+    "serve.json": "/DIG4639CPortfolio2/serve.json",
+    "static/js/2.59b14091.chunk.js.LICENSE.txt": "/DIG4639CPortfolio2/static/js/2.59b14091.chunk.js.LICENSE.txt",
+    "static/media/bell.png": "/DIG4639CPortfolio2/static/media/bell.cf04af27.png",
+    "static/media/heart.png": "/DIG4639CPortfolio2/static/media/heart.23b5c2c0.png",
+    "static/media/rocket.png": "/DIG4639CPortfolio2/static/media/rocket.d2f3bf41.png",
+    "static/media/star.png": "/DIG4639CPortfolio2/static/media/star.69c71386.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.63378b65.js",
+    "static/js/2.59b14091.chunk.js",
+    "static/js/app.4e982e73.chunk.js"
+  ]
+}
