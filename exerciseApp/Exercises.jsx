@@ -8,16 +8,16 @@ export default function Exercises({route, navigation}) {
     let [count, setCount] = React.useState(0);
     return (
         <View style={styles.container}>
-            <Text>Exercises!</Text>
             <Text>Exercise Name: {route.params.activityName}</Text>
             <Text>Exercise Description: {route.params.activityDetails}</Text>
+            <Text>Count below to 3 sets of 10 reps!</Text>
             <Text>Count: {count}</Text>
             <Text>
                 <Button title="Add" onPress={() => setCount(count + 1)}></Button>
                 <Button title="Reset" onPress={() => setCount(0)}></Button>
             </Text>
             {!!route.params.suggestedName && <>
-            <Text>Suggested Exercise: </Text>
+            <Text>Now follow up with this exercise for more training: </Text>
             <Button title={route.params.suggestedName} onPress={() => {
                 setCount(0);
                 navigation.navigate('Exercises', {

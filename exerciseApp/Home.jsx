@@ -44,7 +44,9 @@ export default function Home({navigation}) {
             }></FlatList>
             <Text>2. Can't Decide? Find a Randomized Exercise</Text>
             <Button title="Random Exercises" onPress={() => navigation.navigate('Random')}></Button>
-            <Text>3. Create Your Own Exercise To-Do</Text>
+            <Text>3. What Kind of Exercises Do You Like?</Text>
+            <Button title="Exercise Quiz" onPress={() => navigation.navigate('ExerciseQuiz')}></Button>
+            <Text>4. Create Your Own Exercise To-Do List</Text>
             <Button title="Create ToDo" onPress={() => navigation.navigate('ToDo')}></Button>
         </View>
     )
